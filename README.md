@@ -7,7 +7,8 @@
 
 Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
 
-## Describe your topic/interest in about 150-200 words
+## Describe your topic/interest in about 150-200 words:
+## Our topic is looking at the standings of F1 drivers since 1950. We all avidly watch formula one weekly and want to analyze multiple top drivers and the history of their standings along with their teams' over all standings. We are also intigued to look at the variance of performance between different nationalities of drivers, which could implicate stictness on perfeormance. each race has a maximum of 26 drivers. there are three rounds of qualifying, each round is between ten to twenty minutes, after each round of qualifying the five slowest cars are eliminated, and are placed at the back of the race grid. this establishes the order of the drivers for the officaial race. points are awarded to drivers and teams based on where they finish in each race. the winner receives 25 points, the driver in second place recieves 18 points, with 15, 12, 10, 8, 6, 4, 2 and 1 points for positions 3 through 10, respectively. FUN FACT, brakes in an F1 car can reach 1000 degrees celcius and still work fine, which makes it all the more exciting to watch.
 
 {Add your stuff here}
 
@@ -29,7 +30,9 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## References
 
-{Add your stuff here}
+{Add your stuff here
+qualifying criteria: https://thesportsrush.com/f1-news-how-does-qualifying-work-in-f1-explained/}
 
+FUN FACT : https://drivetribe.com/p/10-facts-about-f1-cars-that-you-ZzahBnFLRoKXhuF75bdgpw
 
 
