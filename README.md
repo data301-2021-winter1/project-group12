@@ -25,7 +25,6 @@ Our data is the standings, car, driver, nationality, and points looking at the y
 ---
 ## Images
 
-F1 Meme
 <img src ="images/F1meme.png">
 
 This is George
