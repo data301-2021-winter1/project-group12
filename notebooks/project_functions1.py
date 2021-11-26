@@ -19,6 +19,7 @@ def load_and_process(url_or_path_to_csv_file):
         .assign(Driver_ID = df1["Driver"].str[-3:],Driver2 = df1["Driver"].str[:-3])
         .drop(columns=["Driver"])
         .rename(columns={"Driver2": "Driver"})
+        [["Driver", "Driver_ID", "Team", "Nationality", "Points", "Position", "Year"]]
       )
 
     return df2
