@@ -20,9 +20,9 @@ def load_and_process(csv_file):
         .assign(Driver_ID = df1["Driver"].str[-3:],Driver2 = df1["Driver"].str[:-3])
         .drop(columns=["Driver"])
         .rename(columns={"Driver2": "Driver"})
-        [["Driver", "Driver_ID", "Team", "Nationality", "PTS", "Position", "Year"]]
+        [["Driver", "Driver_ID", "Team", "Nationality", "Points", "Position", "Year"]]
       )
 
-    # Make sure to return the latest dataframe
+    # Return the latest dataframe
 
     return df2 
